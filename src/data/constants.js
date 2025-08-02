@@ -134,7 +134,7 @@ export const skills = [
   //   ],
   // },
   {
-    title: "Others",
+    title: "Tools",
     skills: [
       {
         name: "Git",
@@ -187,7 +187,7 @@ export const experiences = [
     img: "https://i.postimg.cc/HLdcCCc1/wp8903890.webp", // replace with actual logo if available
     role: "MERN Stack Developer Intern",
     company: "Iokonic Software Solution",
-    date: "Mar 2025 – Jun 2025",
+    date: "Mar 2025 – July 2025",
     desc: "As a MERN Stack Developer Intern at Iokonic Software Solution, I built a scalable admin panel for a farmer-based web application serving 900+ users in Karnataka. I integrated real-time operations and secure authentication using Firebase Firestore and Firebase Auth, and improved SSR performance in a Next.js project by 25%. I also contributed to backend APIs using Laravel and collaborated in a 4-member team using Git and CI/CD workflows.",
     skills: [
       "MERN Stack",
